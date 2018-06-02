@@ -17,7 +17,7 @@ end
 def monopoly_with_second_tier
 	monopoly = {
 		:railroads=>{
-			:pieces=>symbol
+			:pieces=>4
 		}
 	}
 end
